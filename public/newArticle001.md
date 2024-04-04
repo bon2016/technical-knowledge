@@ -1,7 +1,7 @@
 ---
 title: 自分のサイト作成-遍歴001
 tags:
-  - ''
+  - 'Nuxt3'
 private: false
 updated_at: ''
 id: null
