@@ -18,6 +18,11 @@ pull:
 new:
 	npx zenn new:article && npx qiita new
 
+# プレビュー
+.PHONY: preview
+preview:
+	npx zenn preview & npx qiita preview
+
 # CLI のヘルプ表示
 .PHONY: help
 help:
