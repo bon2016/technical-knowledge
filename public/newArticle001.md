@@ -1,10 +1,10 @@
 ---
 title: 自分のサイト作成-遍歴001
 tags:
-  - 'Nuxt3'
+  - Nuxt3
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-04-04T11:48:19+09:00'
+id: 907b4ed6a3de790f7485
 organization_url_name: null
 slide: false
 ignorePublish: false
